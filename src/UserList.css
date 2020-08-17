@@ -1,0 +1,21 @@
+.userkey{
+    display: inline-table;
+    flex-direction: row;
+    border-style: solid;
+    border-color: darkgoldenrod;
+    border-width: 5px;
+    width: 30%;
+    
+}
+.usersInfo{
+
+    margin: 5px;
+    padding: 5px;
+    box-sizing: content-box;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: chocolate;
+}
